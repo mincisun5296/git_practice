@@ -2,7 +2,7 @@
 
 This is a testing project for learning git
 
-test
+do it again at home
 
 
 This is for testing purpose only
